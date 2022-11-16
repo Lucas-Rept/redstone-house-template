@@ -1,0 +1,1 @@
+# redstone-house-template
